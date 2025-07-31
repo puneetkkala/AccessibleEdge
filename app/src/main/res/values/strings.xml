@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AccessibleEdge</string>
+    <string name="overlay_permission">Please grant \'Display over the other apps\' permission for the summary button</string>
+    <string name="checking_permissions_and_accessibility">Checking permissions and accessibility...</string>
+    <string name="start_gesture_control">Start Gesture Control</string>
+    <string name="stop_gesture_control">Stop Gesture Control</string>
+    <string name="enable_accessibility_service">Enable Accessibility Service</string>
+    <string name="summary">Summary</string>
+    <string name="summary_content">Summary content will go here</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="permission_denied">Required permission denied. Cannot start gesture service.</string>
+    <string name="camera_permission_required">Camera permission required</string>
+    <string name="accessibility_service_not_enabled">Accessibility service not enabled</string>
+    <string name="ready">Ready</string>
+    <string name="gesture_service_started">Gesture Service Started</string>
+    <string name="gesture_service_stopped">Gesture service stopped</string>
+</resources>
